@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **java fulstack**
 <img src="https://camo.githubusercontent.com/615cc0400f9446eb5edcf669b17a67edb8e32aef3336785d0414a74670a03d72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966" alt="">
-- 📫 How to reach me **logeshvikram2003@gmail.com**
+- 📫 How to reach me **logeshannadurai203gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
